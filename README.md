@@ -1,34 +1,14 @@
-## Table of contents
+# github-user-search-app-REACT
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-- [Author](#author)
+## Links
 
+- Live Site URL: [Live site](https://interactive-comments-section-pearl.vercel.app/)
+- Solution URL: [Solution URL](https://github.com/aleksandrre/interactive-comments-section)
 
-## Overview
-
-### Screenshot
-![screenshot](design/desktop-preview.jpg)
-
-
-### Links
-
-- Solution URL: [Live URL](https://bekaChaduneli.github.io/interactive-comment-section)
-- Live Site URL: [GitHub](https://github.com/bekaChaduneli/interactive-comment-section)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Mobile-first workflow
-- JavaScript
-- Flexbox
-- Json file handling
-
-## Author
-
-- LinkedIn- [Beka Chaduneli](https://www.linkedin.com/in/beka-chaduneli-28203422b/)
+## Screenshot
+![App Screenshot](https://user-images.githubusercontent.com/108459639/228213950-323d6f50-bba1-415e-8b8a-da5f63d09ad7.jpg)
+## Built with
+- React
+- Styled Components
+## Authors
+- [Aleksandre chokheli](https://github.com/aleksandrre)
