@@ -8,7 +8,7 @@
 ## Screenshot
 ![App Screenshot](https://user-images.githubusercontent.com/108459639/228213950-323d6f50-bba1-415e-8b8a-da5f63d09ad7.jpg)
 ## Built with
-- React
-- Styled Components
+- Javascript
+
 ## Authors
 - [Aleksandre chokheli](https://github.com/aleksandrre)
